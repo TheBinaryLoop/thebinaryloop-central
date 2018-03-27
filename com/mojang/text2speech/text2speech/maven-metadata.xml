@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata>
+  <groupId>com.mojang.text2speech</groupId>
+  <artifactId>text2speech</artifactId>
+  <versioning>
+    <latest>1.10.3</latest>
+    <release>1.10.3</release>
+    <versions>
+      <version>1.10.3</version>
+    </versions>
+  </versioning>
+</metadata>

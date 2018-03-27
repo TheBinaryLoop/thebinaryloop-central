@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata>
+  <groupId>com.google.guava</groupId>
+  <artifactId>guava</artifactId>
+  <versioning>
+    <latest>21.0</latest>
+    <release>21.0</release>
+    <versions>
+      <version>17.0</version>
+      <version>21.0</version>
+    </versions>
+  </versioning>
+</metadata>
