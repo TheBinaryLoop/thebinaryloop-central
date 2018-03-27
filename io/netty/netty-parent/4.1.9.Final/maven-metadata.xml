@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata>
+  <groupId>io.netty</groupId>
+  <artifactId>netty-parent</artifactId>
+  <version>4.1.9.Final</version>
+</metadata>
